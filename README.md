@@ -38,7 +38,7 @@ import 'package:thepeer_flutter/thepeer_flutter.dart';
                data: ThePeerData(
                   amount: 400000,
                   publicKey: "pspk_one_more_thing",
-                  userReference: "stay-foolish-stay-hungry-forever",
+                  userReference: "stay-hungry-stay-foolish-forever",
                   receiptUrl: "https://apple.com/thepeer",
                   meta: {
                     "city": "San Fransisco",
